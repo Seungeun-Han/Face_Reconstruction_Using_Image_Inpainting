@@ -3,7 +3,9 @@
 <br>
 <hr>
 
-## Image Inpainting
+## Face Reconstruction
+
+<br>
 
 ### CelebAMask-HQ 에 Mask Rendering한 이미지에서 마스크 영역만 복구
 
@@ -20,3 +22,6 @@
 
 <br>
 <hr>
+
+#### Copyrights
+Copyright (c) 한승은. All rights reserved.
