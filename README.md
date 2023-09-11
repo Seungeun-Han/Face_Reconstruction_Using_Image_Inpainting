@@ -1,6 +1,8 @@
 # Face_Reconstruction_Using_Image_Inpainting
 
-22.09 ~ 23.04 ETRI 소셜로보틱스연구실에서 진행
+22.09 ~ 23.04 
+
+ETRI 소셜로보틱스연구실에서 진행
 
 <br>
 <hr>
