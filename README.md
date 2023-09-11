@@ -20,6 +20,8 @@ ETRI 소셜로보틱스연구실에서 진행
 
 ![2](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/0b28faaa-4f33-4186-a27f-8eb9d029a8d2)
 
+피부 톤 픽셀 값은 미간 색 발췌
+
 <hr>
 
 ### ETRI Mask DB에 마스크 영역 복구
