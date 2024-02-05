@@ -9,6 +9,15 @@ ETRI 소셜로보틱스연구실에서 진행
 
 ## Face Reconstruction
 
+### Asian Face DB 학습
+- 학습 극초기
+
+![1 PNG](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/c1fc7172-75ee-484c-8354-d24d20c37158)
+
+- 학습 후
+
+![Uploading 2.PNG.png…]()
+
 <br>
 
 ### CelebAMask-HQ 에 Mask Rendering한 이미지에서 마스크 영역만 복구
