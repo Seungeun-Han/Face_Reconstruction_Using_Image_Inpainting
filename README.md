@@ -16,7 +16,7 @@ ETRI 소셜로보틱스연구실에서 진행
 
 - 학습 후
 
-![Uploading 2.PNG.png…]()
+![2](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/10184a2f-b378-452f-9dad-52deee6a7fe2)
 
 <br>
 
