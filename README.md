@@ -27,10 +27,11 @@ ETRI 소셜로보틱스연구실에서 진행
 
 <br>
 
-![Untitled](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/bdef2912-3ff7-461e-9cf4-d9ff7da634b4)
+#### 복원 영역을 피부톤으로 채운 뒤 복원
+피부톤은 미간의 픽셀 값을 추출.
 
+![image](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/1ebeba6c-2bc7-480c-b48e-3f75a0ca4372)
 
-피부 톤 픽셀 값은 미간 색 발췌
 
 <hr>
 
