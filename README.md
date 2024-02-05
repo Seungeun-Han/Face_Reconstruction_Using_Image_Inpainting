@@ -27,7 +27,7 @@ ETRI 소셜로보틱스연구실에서 진행
 
 <br>
 
-![2](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/231929a9-7c1f-4607-9175-cb63da112500)
+![Untitled](https://github.com/Seungeun-Han/Face_Reconstruction_Using_Image_Inpainting/assets/101082685/bdef2912-3ff7-461e-9cf4-d9ff7da634b4)
 
 
 피부 톤 픽셀 값은 미간 색 발췌
